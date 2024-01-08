@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center" alt="banner">A passionate frontend developer from India</h3>
-<img src="https://github.com/AdityaSharmaHub/AdityaSharmaHub/assets/111893234/27c93e0b-ac3f-4c6a-8aca-c525e7d0e6d8" />
+<!-- <img src="https://github.com/AdityaSharmaHub/AdityaSharmaHub/assets/111893234/27c93e0b-ac3f-4c6a-8aca-c525e7d0e6d8" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> </p>
 
 - 🔭 I’m currently working on [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
