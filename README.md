@@ -1,21 +1,23 @@
-<!-- <h1 align="center">Hi 👋, I'm Aditya Sharma</h1> -->
+<h1>Hi 👋, I'm Aditya Sharma</h1>
 <!-- <h3 align="center" alt="banner">A passionate frontend developer from India</h3> -->
 <!-- <img src="https://github.com/AdityaSharmaHub/AdityaSharmaHub/assets/111893234/27c93e0b-ac3f-4c6a-8aca-c525e7d0e6d8" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> </p>
 
-- 🔭 I’m currently working on [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode)
+- 📍 I live in Mumbai, India
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🔭 I’m currently working on [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode) Challenge
+
+- 🌱 I’m currently learning **Next.js, Typescript** and have experience with **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://developeraditya.netlify.app/](https://developeraditya.netlify.app/)
+- 👨‍💻 My Portfolio/Website: [https://developeraditya.netlify.app/](https://developeraditya.netlify.app/)
 
-- 💬 Ask me about **React.js, Tailwind CSS, Node.js, Express, MongoDB**
+- 💬 My Tech Stack: **React.js, Tailwind CSS, Node.js, Express, MongoDB**
 
-- 📫 How to reach me **adisharma4857@gmail.com**
+- 📫 Mail me at: **adisharma4857@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
+- 📄 Here is my Resume: [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
