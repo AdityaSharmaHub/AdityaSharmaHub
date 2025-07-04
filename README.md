@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 My Portfolio/Website: [https://adityacodes.com](https://adityacodes.com)
+- 👨‍💻 My Portfolio/Website: [adityacodes.com](https://adityacodes.com)
 
 - 💬 My Tech Stack: **React.js, Tailwind CSS, Node.js, Express, MongoDB**
 
