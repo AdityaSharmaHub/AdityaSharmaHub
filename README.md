@@ -44,6 +44,6 @@
 ## Connect with Me
 [![Connect with Me](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma)
 &nbsp;
-<a href="https://www.linkedin.com/in/aditya-r-sharma" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-r-sharma" target="_blank" rel="noopener noreferrer">
   <img src="https://iconkit.ronitghosh.site/icons?i=linkedin" alt="linkedin icon" />
 </a>
