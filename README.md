@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Aditya Sharma 👋</h1>
+# Hi, I'm Aditya Sharma 👋  
+A full-stack developer (MERN) building scalable web applications and exploring AI, ML and Generative AI.  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> </p>
 
 ## About Me
@@ -20,26 +21,24 @@
 
 ## Technical Skills
 
-### 💻 Programming & Tools:
+### Programming & Tools:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=cpp,c,javascript,python,html,css,git,github,vscode,postman,npm,yarn,linux,windows,figma)](https://adityacodes.com)
 
-### 🧩 Frameworks & Libraries:
+### Frameworks & Libraries:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,bootstrap,framermotion,graphql,redux)](https://adityacodes.com)
 
-### 🗄️ Databases & Cloud:
+### Databases & Cloud:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase,aws,docker,kubernetes,netlify,vercel)](https://adityacodes.com)
 
 ## Some Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmahub&theme=github_dark_dimmed" alt="AdityaSharmaHub" />&nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adityasharmahub" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" alt="AdityaSharmaHub" />
-</p>
-
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmahub&theme=github_dark_dimmed" alt="AdityaSharmaHub" />&nbsp; &nbsp; &nbsp;
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" />
+  
 ## Connect with Me
 [![Connect with Me on Linkedin](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma) &nbsp;
 [![Connect with Me on X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/sharmaadityax) &nbsp;
