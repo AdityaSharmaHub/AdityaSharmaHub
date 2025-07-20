@@ -19,136 +19,21 @@
 
 - 📄 Here is my Resume: [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
 
-<div style="display: flex; gap: 20px;">
-  <div style="flex: 1;">
-    
-  ### 💻 Programming Languages  
-  `C++` · `C` · `Python` · `JavaScript` · `HTML` · `CSS`
+---
 
-  </div>
-  <div style="flex: 1;">
-  
-  ### 🧩 Frameworks & Libraries  
-  `React.js` · `Next.js` · `Node.js` · `Express.js` · `Tailwind CSS` · `Shadcn` · `GraphQL`
-  
-  </div>
-</div>
+### 💻 Programming & Tools:
 
-<table>
-  <tr>
-    <td>
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=cpp,c,javascript,python,html,css,git,github,vscode,postman,npm,yarn,linux,windows,figma)](https://adityacodes.com)
 
-### 💻 Programming Languages  
-`C++` · `C` · `Python` · `JavaScript` · `HTML` · `CSS`
-
-</td>
-    <td>
-
-### 🧩 Frameworks & Libraries  
-`React.js` · `Next.js` · `Node.js` · `Express.js` · `Tailwind CSS` · `Shadcn` · `GraphQL`
-
-</td>
-  </tr>
-  <tr>
-    <td>
-
-### 🗄️ Databases & BaaS  
-`MongoDB` · `MySQL` · `PostgreSQL` · `Supabase` · `Firebase` · `Appwrite`
-
-</td>
-    <td>
-
-### ☁️ Cloud & DevOps  
-`AWS` · `Docker` · `Kubernetes` · `Netlify` · `Vercel`
-
-</td>
-  </tr>
-  <tr>
-    <td>
-
-### 🛠️ Tools & Platforms  
-`Git` · `GitHub` · `VS Code` · `Postman` · `npm` · `yarn` · `Linux` · `Windows` · `Figma` · `Cursor`
-
-</td>
-    <td>
-
-### 🤖 AI & Experimental  
-`Gemini` · `Cursor` *(AI Code Tools)*
-
-</td>
-  </tr>
-</table>
-
-
-
-<table>
-  <thead>
-    <th>💻 Programming Languages</th>
-    <th>🧩 Frameworks and Libraries</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://iconkit.ronitghosh.site/icons?i=c,cpp,javascript,python,html,css" alt="Programming Languages" />
-      </td>
-      <td>
-        <img src="https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,graphql" alt="Frameworks and Libraries" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <th>🗄️ Databases & BaaS</th>
-    <th>☁️ Cloud and DevOps</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase" alt="Databases & BaaS" />
-      </td>
-      <td>
-        <img src="https://iconkit.ronitghosh.site/icons?i=aws,docker,kubernetes,netlify,vercel" alt="Cloud and DevOps" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <th>🛠️ Tools & Platforms</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://iconkit.ronitghosh.site/icons?i=git,github,vscode,postman,npm,yarn,linux,windows,figma,cursor,gemini" alt="Tools & Platforms" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<h3>💻 Programming Languages:</h3>
-
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=c,cpp,javascript,python,html,css)](https://adityacodes.com)
-
-<h3>🧩 Frameworks and Libraries:</h3>
+### 🧩 Frameworks & Libraries:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,graphql)](https://adityacodes.com)
 
-<h3>🗄️ Databases & BaaS:</h3>
+### 🗄️ Databases & Cloud:
 
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase)](https://adityacodes.com)
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase,aws,docker,kubernetes,netlify,vercel)](https://adityacodes.com)
 
-<h3>☁️ Cloud and DevOps:</h3>
-
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=aws,docker,kubernetes,netlify,vercel)](https://adityacodes.com)
-
-<h3>🛠️ Tools & Platforms:</h3>
-
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=git,github,vscode,postman,npm,yarn,linux,windows,figma,cursor,gemini)](https://adityacodes.com)
-
-
+---
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adityasharmahub" />
