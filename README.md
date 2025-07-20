@@ -19,6 +19,22 @@
 
 - 📄 Here is my Resume: [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
 
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    
+  ### 💻 Programming Languages  
+  `C++` · `C` · `Python` · `JavaScript` · `HTML` · `CSS`
+
+  </div>
+  <div style="flex: 1;">
+  
+  ### 🧩 Frameworks & Libraries  
+  `React.js` · `Next.js` · `Node.js` · `Express.js` · `Tailwind CSS` · `Shadcn` · `GraphQL`
+  
+  </div>
+</div>
+
+
 <table>
   <thead>
     <th>💻 Programming Languages</th>
