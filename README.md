@@ -34,6 +34,52 @@
   </div>
 </div>
 
+<table>
+  <tr>
+    <td>
+
+### 💻 Programming Languages  
+`C++` · `C` · `Python` · `JavaScript` · `HTML` · `CSS`
+
+</td>
+    <td>
+
+### 🧩 Frameworks & Libraries  
+`React.js` · `Next.js` · `Node.js` · `Express.js` · `Tailwind CSS` · `Shadcn` · `GraphQL`
+
+</td>
+  </tr>
+  <tr>
+    <td>
+
+### 🗄️ Databases & BaaS  
+`MongoDB` · `MySQL` · `PostgreSQL` · `Supabase` · `Firebase` · `Appwrite`
+
+</td>
+    <td>
+
+### ☁️ Cloud & DevOps  
+`AWS` · `Docker` · `Kubernetes` · `Netlify` · `Vercel`
+
+</td>
+  </tr>
+  <tr>
+    <td>
+
+### 🛠️ Tools & Platforms  
+`Git` · `GitHub` · `VS Code` · `Postman` · `npm` · `yarn` · `Linux` · `Windows` · `Figma` · `Cursor`
+
+</td>
+    <td>
+
+### 🤖 AI & Experimental  
+`Gemini` · `Cursor` *(AI Code Tools)*
+
+</td>
+  </tr>
+</table>
+
+
 
 <table>
   <thead>
