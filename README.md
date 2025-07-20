@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<!-- <h3 align="center" alt="banner">A passionate frontend developer from India</h3> -->
-<!-- <img src="https://github.com/AdityaSharmaHub/AdityaSharmaHub/assets/111893234/27c93e0b-ac3f-4c6a-8aca-c525e7d0e6d8" /> -->
+<h1 align="center">Hi, I'm Aditya Sharma 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> </p>
 
+## About Me
 - 📍 I live in Mumbai, India
 
 - 🔭 I’m currently working on [#100DaysOfCode](https://github.com/AdityaSharmaHub/100DaysOfCode) Challenge
@@ -13,11 +12,11 @@
 
 - 👨‍💻 My Portfolio/Website: [adityacodes.com](https://adityacodes.com)
 
-- 💬 My Tech Stack: **React.js, Tailwind CSS, Node.js, Express, MongoDB**
+- 💬 My Tech Stack: **React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL**
 
-- 📫 Mail me at: **adisharma4857@gmail.com**
+- 📫 Mail me at: **adisharma.connect@gmail.com**
 
-- 📄 Here is my Resume: [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
+- 📄 Here is my Resume: [Link](https://drive.google.com/file/d/1r-j3ILJKefsx0WgcE4O0l_KQHd4z0X6h/view)
 
 ## Technical Skills
 
@@ -36,14 +35,12 @@
 ## Some Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adityasharmahub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmahub&theme=github_dark_dimmed" alt="AdityaSharmaHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmahub&theme=github_dark_dimmed" alt="AdityaSharmaHub" />&nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adityasharmahub" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" alt="AdityaSharmaHub" />
 </p>
 
 ## Connect with Me
-[![Connect with Me](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma)
-&nbsp;
-<a href="https://www.linkedin.com/in/aditya-r-sharma" target="_blank" rel="noopener noreferrer">
-  <img src="https://iconkit.ronitghosh.site/icons?i=linkedin" alt="linkedin icon" />
-</a>
+[![Connect with Me on Linkedin](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma) &nbsp;
+[![Connect with Me on X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/sharmaadityax) &nbsp;
+[![Connect with Me on Instagram](https://iconkit.ronitghosh.site/icons?i=instagram)](https://www.instagram.com/_.__adityasharma_.__) &nbsp;
