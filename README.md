@@ -19,7 +19,7 @@
 
 - 📄 Here is my Resume: [https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link](https://drive.google.com/file/d/1NTMvuWmz-zRPIRp3YngaPncxUgbifHAs/view?usp=drive_link)
 
----
+## Technical Skills
 
 ### 💻 Programming & Tools:
 
@@ -27,13 +27,13 @@
 
 ### 🧩 Frameworks & Libraries:
 
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,graphql)](https://adityacodes.com)
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,bootstrap,framermotion,graphql,redux)](https://adityacodes.com)
 
 ### 🗄️ Databases & Cloud:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase,aws,docker,kubernetes,netlify,vercel)](https://adityacodes.com)
 
----
+## Some Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adityasharmahub" />
@@ -41,3 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" alt="AdityaSharmaHub" />
 </p>
 
+## Connect with Me
+[![Connect with Me](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma)
+&nbsp;
+<a href="https://www.linkedin.com/in/aditya-r-sharma" target="_blank">
+  <img src="https://iconkit.ronitghosh.site/icons?i=linkedin" alt="linkedin icon" />
+</a>
