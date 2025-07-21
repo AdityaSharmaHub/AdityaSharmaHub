@@ -1,6 +1,9 @@
 # Hi, I'm Aditya Sharma 👋  
 A full-stack developer (MERN) building scalable web applications and exploring AI, ML and Generative AI.  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> 
+</p>
 
 ## About Me
 - 📍 I live in Mumbai, India
@@ -20,109 +23,23 @@ A full-stack developer (MERN) building scalable web applications and exploring A
 - 📄 Here is my Resume: [Link](https://drive.google.com/file/d/1r-j3ILJKefsx0WgcE4O0l_KQHd4z0X6h/view)
 
 
+## 🛠️ Tech Stack
 
-## Technical Skills
+### Programming:
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=cpp" />
-        <p>C++</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=c" />
-        <p>C</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=javascript" />
-        <p>JS</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=python" />
-        <p>Python</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=html" />
-        <p>HTML</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=css" />
-        <p>CSS</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=git" />
-        <p>Git</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=github" />
-        <p>GitHub</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=vscode" />
-        <p>VS Code</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=postman" />
-        <p>Postman</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=npm" />
-        <p>npm</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=yarn" />
-        <p>yarn</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=linux" />
-        <p>Linux</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=windows" />
-        <p>Windows</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=cursor" />
-        <p>Cursor</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=figma" />
-        <p>Figma</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=react" />
-        <p>React</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=next" />
-        <p>Next.js</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=nodejs" />
-        <p>Node.js</p>
-      </td>
-      <td align="center">
-        <img src="https://iconkit.ronitghosh.site/icons?i=express" />
-        <p>Express</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### Programming & Tools:
-
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=cpp,c,javascript,python,html,css,git,github,vscode,postman,npm,yarn,linux,windows,figma)](https://adityacodes.com)
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=cpp,javascript,typescript,python)](https://adityacodes.com)
 
 ### Frameworks & Libraries:
 
-[![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,tailwind,shadcn,bootstrap,framermotion,graphql,redux)](https://adityacodes.com)
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=react,next,nodejs,express,html,css,tailwind,shadcn,vite,bootstrap,framermotion,graphql,redux)](https://adityacodes.com)
 
 ### Databases & Cloud:
 
 [![My Skills](https://iconkit.ronitghosh.site/icons?i=mongodb,mysql,postgresql,supabase,appwrite,firebase,aws,docker,kubernetes,netlify,vercel)](https://adityacodes.com)
+
+### Other Tools:
+
+[![My Skills](https://iconkit.ronitghosh.site/icons?i=git,github,vscode,cursor,postman,npm,yarn,linux,windows,figma)](https://adityacodes.com)
 
 ## Some Stats
 
