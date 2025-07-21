@@ -19,7 +19,62 @@ A full-stack developer (MERN) building scalable web applications and exploring A
 
 - 📄 Here is my Resume: [Link](https://drive.google.com/file/d/1r-j3ILJKefsx0WgcE4O0l_KQHd4z0X6h/view)
 
+
+
 ## Technical Skills
+
+<table>
+  <tbody>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=cpp" />
+      <p>C++</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=c" />
+      <p>C</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=javascript" />
+      <p>JavaScript</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=python" />
+      <p>Python</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=html" />
+      <p>HTML</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=css" />
+      <p>CSS</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=git" />
+      <p>Git</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
+      <p>GitHub</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
+      <p>GitHub</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
+      <p>GitHub</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
+      <p>GitHub</p>
+    </td>
+    <td align="center">
+      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
+      <p>GitHub</p>
+    </td>
+  </tbody>
+</table>
 
 ### Programming & Tools:
 
