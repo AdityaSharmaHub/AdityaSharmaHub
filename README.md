@@ -65,14 +65,6 @@ A full-stack developer (MERN) building scalable web applications and exploring A
       <img src="https://iconkit.ronitghosh.site/icons?i=github" />
       <p>GitHub</p>
     </td>
-    <td align="center">
-      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
-      <p>GitHub</p>
-    </td>
-    <td align="center">
-      <img src="https://iconkit.ronitghosh.site/icons?i=github" />
-      <p>GitHub</p>
-    </td>
   </tbody>
 </table>
 
