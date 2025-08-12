@@ -1,5 +1,5 @@
-<img width="1500" height="500" alt="x banner" src="https://github.com/user-attachments/assets/8b856174-7eac-4f5e-a693-ab0b08ff81f0" />
 
+<img width="1500" height="308" alt="githubx banner" src="https://github.com/user-attachments/assets/6b55aba4-b2ed-4b88-8b67-6d7803dbf0bb" />
 
 # Hi, I'm Aditya Sharma 👋  
 A full-stack developer (MERN) building scalable web applications and exploring AI, ML and Generative AI.  
