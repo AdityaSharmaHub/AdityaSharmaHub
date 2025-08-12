@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="x banner" src="https://github.com/user-attachments/assets/8b856174-7eac-4f5e-a693-ab0b08ff81f0" />
+
+
 # Hi, I'm Aditya Sharma 👋  
 A full-stack developer (MERN) building scalable web applications and exploring AI, ML and Generative AI.  
 
