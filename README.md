@@ -8,7 +8,7 @@ A full-stack developer (MERN) building scalable web applications and exploring A
   <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=400&width=820&center=true&lines=Design.;Develop.;Deploy.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=400&width=900&center=true&lines=I+build+clean+and+smooth+experiences.;I+create+seamless+user+experiences.;I+turn+ideas+into+reality+with+code.)](https://git.io/typing-svg)
 
 ## About Me
 - 📍 I live in Mumbai, India
