@@ -1,14 +1,12 @@
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> 
+</p>
 <img width="1500" height="308" alt="githubx banner" src="https://github.com/user-attachments/assets/6b55aba4-b2ed-4b88-8b67-6d7803dbf0bb" />
 
 # Hi, I'm Aditya Sharma 👋  
 A full-stack developer (MERN) building scalable web applications and exploring AI, ML and Generative AI.  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=adityasharmahub&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmahub" /> 
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=400&width=900&center=true&lines=I+build+clean+and+smooth+experiences.;I+create+seamless+user+experiences.;I+turn+ideas+into+reality+with+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=1000&width=900&vCenter=true&lines=>+I+build+clean+and+smooth+experiences.;>+I+create+seamless+user+experiences.;>+I+turn+ideas+into+reality+with+code.)](https://git.io/typing-svg)
 
 ## About Me
 
