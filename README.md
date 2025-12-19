@@ -34,8 +34,7 @@ A full-stack developer (MERN) building scalable web applications and exploring A
 ![My Skills](https://iconkit.ronitghosh.site/icons?i=git,github,vscode,cursor,postman,npm,yarn,linux,windows,figma)
 
 ## Some Stats
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmahub&theme=github_dark_dimmed" alt="AdityaSharmaHub" />&nbsp; &nbsp; &nbsp;
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" />
 <img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" />
   
 ## Connect with Me
