@@ -39,5 +39,5 @@ A full-stack developer (MERN) building scalable web applications and exploring A
   
 ## Connect with Me
 [![Connect with Me on Linkedin](https://iconkit.ronitghosh.site/icons?i=linkedin)](https://www.linkedin.com/in/aditya-r-sharma) &nbsp;
-[![Connect with Me on X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/sharmaadityax) &nbsp;
+[![Connect with Me on X](https://iconkit.ronitghosh.site/icons?i=x)](https://x.com/adityaxcodes) &nbsp;
 [![Connect with Me on Instagram](https://iconkit.ronitghosh.site/icons?i=instagram)](https://www.instagram.com/_.__adityasharma_.__) &nbsp;
