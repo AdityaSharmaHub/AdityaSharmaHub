@@ -14,7 +14,7 @@ A full-stack developer (MERN) building scalable web applications and exploring A
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 📫 Mail me at: **adisharma.connect@gmail.com**
+- 📫 Mail me at: **adisharma.dev@gmail.com**
 
 - 📄 Here is my Resume: [Link](https://drive.google.com/file/d/1r-j3ILJKefsx0WgcE4O0l_KQHd4z0X6h/view)
 
