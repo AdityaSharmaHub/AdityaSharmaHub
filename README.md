@@ -17,7 +17,3 @@ A full-stack developer (MERN) building scalable web applications and exploring A
 - 📫 Mail me at: **adisharma.dev@gmail.com**
 
 - 📄 Here is my Resume: [Link](https://drive.google.com/file/d/1r-j3ILJKefsx0WgcE4O0l_KQHd4z0X6h/view)
-
-## Some Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasharmahub&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" />
-<img src="https://github-readme-stats.vercel.app/api?username=adityasharmahub&show_icons=true&locale=en&theme=github_dark_dimmed" />
